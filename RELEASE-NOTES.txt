@@ -1,6 +1,7 @@
 12.3
 -----
- 
+ * Improved connectivity errors messaging in sharing screen.
+
 12.2
 -----
 * Draft preview now shows the remote version of the post.
